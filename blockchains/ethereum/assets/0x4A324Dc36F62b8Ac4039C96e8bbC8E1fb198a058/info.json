@@ -1,0 +1,11 @@
+{
+    "name": "PKEX Token",
+    "symbol": "PKEX",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://kovan.etherscan.io/token/0x4A324Dc36F62b8Ac4039C96e8bbC8E1fb198a058",
+    "status": "active",
+    "id": "0x4A324Dc36F62b8Ac4039C96e8bbC8E1fb198a058"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "WPLD",
+    "website": "https://centre.io/usdc",
+    "description": "-",
+    "explorer": "https://etherscan.io/token/0x877A9D921ecfDA260C27932e19A75588024A66B9",
+    "type": "ERC20",
+    "symbol": "WPLD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x877A9D921ecfDA260C27932e19A75588024A66B9"
+}
